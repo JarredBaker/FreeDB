@@ -1,4 +1,4 @@
-require_relative 'table'
+require_relative '../le'
 require 'logger'
 
 module DB
